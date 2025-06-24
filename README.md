@@ -4,11 +4,11 @@
 2. omok_ai.py - 오목 AI 자체 알고리즘 
 3. omok_board.py - 오목 보드 관리
 
-==================================
+
 실행방법
 python main.py (B or W)
 ex. python main.py B
-==================================
+
 진행 방법
 매 차례마다 다음과 같이 현재 보드를 보여준다
   A B C D E F G H I J K L M N O P Q R S
