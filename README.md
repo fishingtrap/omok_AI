@@ -11,7 +11,7 @@ ex. python main.py B
 
 진행 방법
 매 차례마다 다음과 같이 현재 보드를 보여준다
-  A B C D E F G H I J K L M N O P Q R S
+A B C D E F G H I J K L M N O P Q R S
 1 . . . . . . . . . . . . . . . . . . .
 2 . . . . . . . . . . . . . . . . . . .
 3 . . . . . . . . . . . . . . . . . . .
